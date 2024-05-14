@@ -1,7 +1,6 @@
 import './App.css';
 import Header from './myComponents/Header';
 import Todos from './myComponents/Todos';
-import Footer from './myComponents/Footer';
 import AddTodo from './myComponents/AddTodo';
 import About from './myComponents/About';
 import React, { useState, useEffect } from "react";
